@@ -2,4 +2,5 @@
 #pragma once
 
 #include <nx/base.hpp>
+#include <nx/fs.hpp>
 #include <nx/ipc.hpp>

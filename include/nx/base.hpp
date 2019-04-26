@@ -62,10 +62,6 @@ namespace nx
             {
             }
 
-            ResultTuple(u32 Mod, u32 Desc) : rc(NXPP_RESULT(Mod, Desc))
-            {
-            }
-
             template<typename T>
             T &Get(u32 Index)
             {

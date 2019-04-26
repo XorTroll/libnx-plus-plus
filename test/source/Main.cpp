@@ -11,7 +11,7 @@ class Test : public nx::ipc::Object
         {
         }
 
-        NXPP_IPC_REQUEST_EMPTY_OUT(GetBatteryChargePercentage, 0, u32);
+        NXPP_IPC_OBJECT_REQUEST_EMPTY_OUT(GetBatteryChargePercentage, 0, u32);
 };
 
 int main(int argc, char **argv)
