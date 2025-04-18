@@ -2,6 +2,8 @@
 
 > Simple, efficient, headers-only C++17 libnx wrappers
 
+## **IMPORTANT!** this project is no longer continued.
+
 libnx++ is a WIP library, header-only, for C++17 projects, providing a nice C++-ish wrapper for C libnx libraries.
 
 An old project of mine, Biosphere, was an attempt to make C++-only Switch homebrew development libraries. Finally, taking into account how much dedication and time would be needed to keep them properly working and updated, I've decided to grab several Biosphere's implementations, classes and ideas and join them to make this nice wrappers.

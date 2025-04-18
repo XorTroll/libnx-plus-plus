@@ -1,6 +1,6 @@
 
 #pragma once
-
-#include <nx/base.hpp>
+#include <nx/nx_Macros.hpp>
+#include <nx/nx_ResultTuple.hpp>
 #include <nx/fs.hpp>
 #include <nx/ipc.hpp>
